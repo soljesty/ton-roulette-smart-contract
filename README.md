@@ -92,3 +92,6 @@ Max bet: 100.0 GRAM
   ```
 
   `bin/` folder from this repo must be in `$TON/` folder
+
+## Contact
+https://t.me/soljesty
